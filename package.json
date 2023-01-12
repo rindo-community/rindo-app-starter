@@ -1,0 +1,22 @@
+{
+  "name": "rindo-starter-project-name",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Rindo App Starter",
+  "scripts": {
+    "build": "rindo build",
+    "start": "rindo build --dev --watch --serve",
+    "test": "rindo test --spec --e2e",
+    "test.watch": "rindo test --spec --e2e --watchAll",
+    "generate": "rindo generate"
+  },
+  "devDependencies": {
+    "@rindo-community/router": "^1.0.2",
+    "@rindo/core": "^2.16.0",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "jest-cli": "^27.4.5",
+    "puppeteer": "^10.0.0"
+  },
+  "license": "MIT"
+}
