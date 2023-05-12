@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@rindo-community/router": "^1.0.2",
-    "@rindo/core": "^2.16.0",
+    "@rindo/core": "2.18.1",
     "@types/jest": "^27.0.3",
     "jest": "^27.4.5",
     "jest-cli": "^27.4.5",

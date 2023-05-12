@@ -1,6 +1,6 @@
 import { Config } from '@rindo/core';
 
-// https://rindojs.web.app/guide/config.html
+// https://rindojs.web.app/docs/config
 
 export const config: Config = {
   globalStyle: 'src/global/app.css',
